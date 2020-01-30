@@ -1,4 +1,5 @@
-def retrieval (shipping_manifest)
+def retrieval (shipping_manifest)my_hash = {"name" => "james"}
+
   
   shipping_manifest = {
                   "whale bone corsets" => 5, 
